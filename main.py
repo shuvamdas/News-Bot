@@ -34,7 +34,7 @@ class Scraper:
 
         fromEmail = 'sr1498@srmist.edu.in'
         toEmail = 'dasshuvam18@gmail.com'
-       # password = 'Swe$2835'
+       
 
         msg = MIMEMultipart('alternative')
         msg['Subject'] = "Link"
